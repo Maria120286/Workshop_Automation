@@ -1,0 +1,14 @@
+Workshop_Automation
+Install Google Chrome
+Install Pycharm Community Edition (Atentie! Butonul Negru): https://www.jetbrains.com/pycharm/download/
+Install Python https://www.python.org/downloads/
+Deschide Pycharm -> New project -> Create
+Click dr pe nume proiect -> New -> Python file -> login_test
+Copiaza aici continutul testului login_test (il gasiti mai sus)
+Click pe 'selenium' subliniat cu rosu, click pe bec, selecteaza Install package
+Click dreapta pe fisier si RUN
+Voila!
+
+Troubleshoot pt. pct. 7
+In terminal scrieti 'pip install selenium'
+sau 'py -m pip install selenium'
